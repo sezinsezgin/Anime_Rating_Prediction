@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bc5afcf-39f6-4bee-92f9-1582d6a3da6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Errors Generating/DSA - Generating Errors.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error-generator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/Anime type Error Detection &amp; Repair.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/Anime type Error Detection &amp; Repair.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/CleanedData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/CleanedData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/Generating Error and Evaluation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/Generating Error and Evaluation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/dirtyTrainDataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/dirtyTrainDataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/random_active_domain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/random_active_domain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/testDataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/testDataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MP/Basic Pipeline without Errors_lesso vs linear visual.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MP/Basic Pipeline without Errors_lesso vs linear visual.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +41,71 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sezin/FittedVectoriser_WithCV_Sezin-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MP/Basic Pipeline without Errors_lesso vs linear visual.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Error Detection &amp; Repair/Typo/Basic Pipeline - typo - genre- Test-CV-HP.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/CleanedData.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/dirtyTrainDataset.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_anime_data1.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="434">
+              <caret line="240" column="51" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +138,13 @@
             <path>
               <item name="dsa-DC4ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsa-DC4ML" type="462c0819:PsiDirectoryNode" />
-              <item name="Errors Generating" type="462c0819:PsiDirectoryNode" />
+              <item name="Error Detection &amp; Repair" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsa-DC4ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsa-DC4ML" type="462c0819:PsiDirectoryNode" />
+              <item name="Error Detection &amp; Repair" type="462c0819:PsiDirectoryNode" />
+              <item name="Random Active Domain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,9 +207,9 @@
   </component>
   <component name="TodoView" selected-index="1" />
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1045" height="797" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3429711" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26251787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -145,7 +220,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3134752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31325302" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -169,6 +244,23 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Error Detection &amp; Repair/Random Active Domain/Anime type Error Detection &amp; Repair-Precision and Recall.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_anime_data1.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="434">
+          <caret line="240" column="51" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="51" />
         </state>
       </provider>
     </entry>
